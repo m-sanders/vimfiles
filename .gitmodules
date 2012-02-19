@@ -37,3 +37,6 @@
 [submodule "bundle/py.test"]
 	path = bundle/py.test
 	url = http://github.com/alfredodeza/pytest.vim.git
+[submodule "bundle/makegreen"]
+	path = bundle/makegreen
+	url = http://github.com/reinh/vim-makegreen
