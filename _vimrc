@@ -1,4 +1,8 @@
+" 
+" stolen mainly from: 
 " http://sontek.net/turning-vim-into-a-modern-python-ide#responses 
+" r/vim
+"
 
 " map \ to , which is easier to each:
 :let mapleader = ","
